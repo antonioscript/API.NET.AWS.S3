@@ -1,4 +1,4 @@
-# AWS.S3.NET
+# API.NET.AWS.S3
 this project demonstrates how to integrate S3 storage capabilities into any .NET application, whether it's a web API, background service,
 
 ## References
