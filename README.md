@@ -1,5 +1,5 @@
 # API.NET.AWS.S3
-this project demonstrates how to integrate S3 storage capabilities into any .NET application, whether it's a web API, background service,
+This project demonstrates how to integrate S3 storage capabilities into any .NET application, whether it's a web API, background service,
 
 ## References
 https://codewithmukesh.com/blog/working-with-aws-s3-using-aspnet-core/
